@@ -3,3 +3,12 @@
         left: 2rem;
     }   
 }
+
+@media only screen and (max-width:563px) {
+    .edit-state-btn {
+        width: 100%;
+        margin-bottom: 0.5rem;
+    }
+}
+
+

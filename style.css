@@ -1,0 +1,5 @@
+@media only screen and (max-width:993px) {
+    nav .brand-logo.left {
+        left: 2rem;
+    }   
+}
